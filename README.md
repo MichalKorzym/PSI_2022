@@ -1,0 +1,2 @@
+# PSI_2022
+AGH_Podstawy_Sztucznej_Inteligencji
