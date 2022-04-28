@@ -46,5 +46,10 @@ https://arxiv.org/pdf/2203.02471.pdf
 
 DOI - https://doi.org/10.48550/arXiv.2203.02471
 
+8.***An overview of Boltzmann Machine and its special class 2020***
+
+https://www.researchgate.net/publication/347491497_An_overview_of_Boltzmann_Machine_and_its_special_class
+
+DOI - 10.13140/RG.2.2.28630.88641
 
 
